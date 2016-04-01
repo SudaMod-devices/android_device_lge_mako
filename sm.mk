@@ -1,9 +1,9 @@
-# Boot animation
+android_kernel_google_msm# Boot animation
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 768
 
 # Inherit some common SM stuff.
-$(call inherit-product, vendor/sm/config/common_full_phone.mk)
+$(call inherit-product, vendor/sm/config/common_mini_phone.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/sm/config/nfc_enhanced.mk)
