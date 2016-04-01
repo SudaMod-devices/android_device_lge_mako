@@ -1,4 +1,4 @@
-android_kernel_google_msm# Boot animation
+# Boot animation
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 768
 

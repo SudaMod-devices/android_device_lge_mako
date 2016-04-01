@@ -1,8 +1,8 @@
 [
  {
    "remote": "suda",
-   "repository": "SudaMod-devices/android_kernel_google_msm",
-   "target_path": "kernel/google/msm",
+   "repository": "SudaMod-devices/lge-kernel-mako",
+   "target_path": "kernel/lge/mako",
    "revision":"sm-2.0"
  },
  {
