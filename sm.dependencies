@@ -1,9 +1,9 @@
 [
  {
    "remote": "suda",
-   "repository": "SudaMod-devices/lge-kernel-mako",
+   "repository": "CyanogenMod/lge-kernel-mako",
    "target_path": "kernel/lge/mako",
-   "revision":"sm-2.0"
+   "revision":"cm-13.0"
  },
  {
    "remote": "suda",
